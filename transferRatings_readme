@@ -1,0 +1,12 @@
+This script parses the data contained in the iTunes Library, extracts song ratings, and applies them to the Rhythmbox Library.
+
+To use:
+
+Import all of your music from your iTunes music directory into Rhythmbox.
+Run: python transferRatings-x.x.x.py /path/to/itunes/library [/path/to/rhythmbox/library]
+Usually the Rhythmbox library is located at ~/.gnome2/rhythmbox/rhythmdb.xml.
+
+
+
+
+https://code.google.com/p/itunes-to-rhythmbox-ratings/
