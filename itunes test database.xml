@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2013-06-25T05:05:45Z</date>
+	<key>Application Version</key><string>11.0.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/</string>
+	<key>Library Persistent ID</key><string>325C8F4F9A51A485</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4664</key>
+		<dict>
+			<key>Track ID</key><integer>7148</integer>
+			<key>Name</key><string>One More Time</string>
+			<key>Artist</key><string>Daft punk</string>
+			<key>Album Artist</key><string>Daft punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5879518</integer>
+			<key>Total Time</key><integer>367333</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-08-21T05:57:10Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:29Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3398024574</integer>
+			<key>Play Date UTC</key><date>2011-09-05T06:42:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-10-20T19:53:13Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>5429810F96968AD3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/01%20One%20More%20Time.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7150</key>
+		<dict>
+			<key>Track ID</key><integer>7150</integer>
+			<key>Name</key><string>Aerodynamic</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5108769</integer>
+			<key>Total Time</key><integer>207595</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-08-21T05:57:10Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:29Z</date>
+			<key>Bit Rate</key><integer>196</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3395743081</integer>
+			<key>Play Date UTC</key><date>2011-08-09T20:58:01Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2011-09-05T06:43:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>FC0B476955C7081C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/02%20Aerodynamic.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7152</key>
+		<dict>
+			<key>Track ID</key><integer>7152</integer>
+			<key>Name</key><string>Digital Love</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Carlos Sosa/George Duke/Guy-Manuel de Homem-Christo/Thomas Bangalter</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4732690</integer>
+			<key>Total Time</key><integer>295497</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:36Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:29Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3452621349</integer>
+			<key>Play Date UTC</key><date>2013-05-29T04:29:09Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>6E8F8421345CBE76</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/03%20Digital%20Love.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7154</key>
+		<dict>
+			<key>Track ID</key><integer>7154</integer>
+			<key>Name</key><string>Harder, Better, Faster, Stronger</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Edwin Birdsong/Guy-Manuel de Homem-Christo/Thomas Bangalter</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3571856</integer>
+			<key>Total Time</key><integer>222928</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:36Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:29Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000BE9 00000B35 000046FD 0000374F 0000C367 0000C367 00008000 00008000 00009C85 0000C367</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3398769308</integer>
+			<key>Play Date UTC</key><date>2011-09-13T21:35:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>1FB0D5DD7C0530A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/04%20Harder,%20Better,%20Faster,%20Stronger.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7156</key>
+		<dict>
+			<key>Track ID</key><integer>7156</integer>
+			<key>Name</key><string>Crescendolls</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6357238</integer>
+			<key>Total Time</key><integer>211696</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:38Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:29Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3398032180</integer>
+			<key>Play Date UTC</key><date>2011-09-05T08:49:40Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>CF4718390E60B5A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/05%20Crescendolls.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7158</key>
+		<dict>
+			<key>Track ID</key><integer>7158</integer>
+			<key>Name</key><string>Nightvision</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Guy-Manuel de Homem-Christo/Thomas Bangalter</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1623492</integer>
+			<key>Total Time</key><integer>101172</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:38Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:30Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3398951226</integer>
+			<key>Play Date UTC</key><date>2011-09-16T00:07:06Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>685274377438B912</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/06%20Nightvision.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7160</key>
+		<dict>
+			<key>Track ID</key><integer>7160</integer>
+			<key>Name</key><string>Superheroes</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Barry Manilow/Guy-Manuel de Homem-Christo/Marty Panzer/Thomas Bangalter</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3772638</integer>
+			<key>Total Time</key><integer>235493</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:38Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:30Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3411165606</integer>
+			<key>Play Date UTC</key><date>2012-02-04T09:00:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2013-04-08T19:38:02Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2A99474F0BC40283</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/07%20Superheroes.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7162</key>
+		<dict>
+			<key>Track ID</key><integer>7162</integer>
+			<key>Name</key><string>High Life</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6493249</integer>
+			<key>Total Time</key><integer>201822</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:38Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000667 000004AA 000026F4 00001A74 0000EA8E 0000EA8E 00008000 00008000 0000EA8E 0000EA8E</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3452618387</integer>
+			<key>Play Date UTC</key><date>2013-05-29T03:39:47Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>22A8F4A90785721A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/08%20High%20Life.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7164</key>
+		<dict>
+			<key>Track ID</key><integer>7164</integer>
+			<key>Name</key><string>Something About Us</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Composer</key><string>Guy-Manuel de Homem-Christo/Thomas Bangalter</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3635488</integer>
+			<key>Total Time</key><integer>227056</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:38Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:30Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000307 000002BD 000014AA 000010F3 0002E675 00013897 00007FD1 00006A1B 00024A07 00024A07</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3397942423</integer>
+			<key>Play Date UTC</key><date>2011-09-04T07:53:43Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>0765C8B664F402BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/09%20Something%20About%20Us.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7166</key>
+		<dict>
+			<key>Track ID</key><integer>7166</integer>
+			<key>Name</key><string>Voyager</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6007622</integer>
+			<key>Total Time</key><integer>227918</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:38Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:30Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3397940753</integer>
+			<key>Play Date UTC</key><date>2011-09-04T07:25:53Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>00AF6C47A17574A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/10%20Voyager.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7168</key>
+		<dict>
+			<key>Track ID</key><integer>7168</integer>
+			<key>Name</key><string>Veridis Quo</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7983373</integer>
+			<key>Total Time</key><integer>344946</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:38Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:30Z</date>
+			<key>Bit Rate</key><integer>185</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3397905602</integer>
+			<key>Play Date UTC</key><date>2011-09-03T21:40:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-08-30T07:12:02Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>36808081A2260744</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/11%20Veridis%20Quo.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7170</key>
+		<dict>
+			<key>Track ID</key><integer>7170</integer>
+			<key>Name</key><string>Short Circuit</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4973715</integer>
+			<key>Total Time</key><integer>206915</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:38Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:30Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3396194409</integer>
+			<key>Play Date UTC</key><date>2011-08-15T02:20:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-08-26T18:14:20Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>2DF01C42C8DC1F35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/12%20Short%20Circuit.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7172</key>
+		<dict>
+			<key>Track ID</key><integer>7172</integer>
+			<key>Name</key><string>Face to Face</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5695195</integer>
+			<key>Total Time</key><integer>240169</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Date Modified</key><date>2009-04-23T19:58:38Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:30Z</date>
+			<key>Bit Rate</key><integer>189</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3406464406</integer>
+			<key>Play Date UTC</key><date>2011-12-11T23:06:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-06-29T21:01:44Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>B408F5C8427E8A08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/13%20Face%20to%20Face.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7174</key>
+		<dict>
+			<key>Track ID</key><integer>7174</integer>
+			<key>Name</key><string>Too Long</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Discovery</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16184920</integer>
+			<key>Total Time</key><integer>600346</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2009-08-21T05:57:12Z</date>
+			<key>Date Added</key><date>2011-06-09T17:42:30Z</date>
+			<key>Bit Rate</key><integer>215</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>ÜberStandard - UberNet.org</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3402312885</integer>
+			<key>Play Date UTC</key><date>2011-10-24T21:54:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>A7A17B3B41D9E78D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Matthew/Music/iTunes%20Lib/Daft%20Punk/Discovery/14%20Too%20Long.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
